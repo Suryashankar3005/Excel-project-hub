@@ -43,5 +43,5 @@ It is designed to showcase my skills in handling data, cleaning, applying formul
 
 ## 👤 Author
 **Your Name**  
-- GitHub:  surya shankar (https://github.com/Surya Shankar3005)  
+- GitHub:  surya shankar (https://github.com/Suryashankar3005 
 - 
