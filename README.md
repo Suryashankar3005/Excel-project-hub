@@ -43,5 +43,5 @@ It is designed to showcase my skills in handling data, cleaning, applying formul
 
 ## 👤 Author
 **Your Name**  
-- GitHub: [yourusername](https://github.com/yourusername)  
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub:  surya shankar (https://github.com/Surya Shankar3005)  
+- 
